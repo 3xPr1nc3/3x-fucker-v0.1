@@ -1,7 +1,7 @@
 # 3x-fucker-v0.1
 The one &amp; only worlds first complete tools pack by 3xp1r3 Pr1nc3
 <br>
-GreetZ: Jokr Haxor | Saiyan Haxor | Ultimate Haxor | My first love <3 | Amar Arohi (My Inspiration) <br>
+GreetZ: Jokr Haxor | Saiyan Haxor | Ultimate Haxor | My Shaj | Amar Arohi <br>
 Using: <br>
         Wrong: testing.php [shows 404 dynamic error page based on website] <br>
         Correct: testing.php?3x=3x [now showing the main script] <br>
